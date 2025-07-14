@@ -1,0 +1,45 @@
+EXPERIMENT - 3B
+PALAK SONI
+24070123069
+ENTC - A3
+
+#include<iostream>
+using namespace std;
+int main(){
+    int m1 ,m2 ,m3 ,m4 ,m5;
+    float average;
+   
+    cout<<"Enter marks of subject 1:"<<endl;
+    cin>>m1;
+    cout<<"Enter marks of subject 2:"<<endl;
+    cin>>m2;
+    cout<<"Enter marks of subject 3:"<<endl;
+    cin>>m3;
+    cout<<"Enter marks of subject 4:"<<endl;
+    cin>>m4;
+    cout<<"Enter marks of subject 5:"<<endl;
+    cin>>m5;
+    average=(m1+m2+m3+m4+m5)/5;
+    cout<<"Average :"<<endl;
+    if (80<average && average<90){
+        cout<<"The grade is: O"<<endl;
+    }
+    else if(70<average&& average<=80){
+        cout<<"The grade is: A"<<endl;
+    }
+    else if(60<average&& average<=70){
+        cout<<"The grade is: B"<<endl;
+    }
+     else if(50<average&& average<=60){
+        cout<<"The grade is: C"<<endl;
+    }
+     else if(40<average&& average<=50){
+        cout<<"The grade is: D"<<endl;
+    }
+     else if(30<average&& average<=40){
+        cout<<"The grade is: E"<<endl;
+    }
+     else{
+        cout<<"FAIL"<<endl;
+    }
+    return 0;
