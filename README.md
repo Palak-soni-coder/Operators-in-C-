@@ -67,7 +67,7 @@ This program takes marks of five subjects from the user, calculates the average,
 - Multiple `if-else` blocks
 - Relational and logical operators
 
-### 2. Positive, Negative, or Zero Checker
+### 2. Finding whether a number is positive, negative or zero
 This simple program checks whether the entered number is positive, negative, or zero using conditional logic.
 
 **Key Concepts Used**:
@@ -78,7 +78,7 @@ This simple program checks whether the entered number is positive, negative, or 
 ### 3. Quadrant Locator
 This program determines in which quadrant a point lies on the Cartesian plane, based on its x and y coordinates. It also handles edge cases like origin or axes.
 
-**Key Concepts Used**:
+**Concepts Used**:
 - Compound conditions using `&&`
 - Multiple `else if` branches
 - Understanding real-world geometry through logic
