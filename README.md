@@ -1,3 +1,8 @@
+# Name: Palak Soni
+# PRN: 24070123069
+# ENTC A3
+
+
 # C++ Assignment: Understanding Operators and Conditional Statements
 
 ## Operators in C++
