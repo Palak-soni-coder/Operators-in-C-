@@ -16,3 +16,4 @@ int main(){
 }else {
     cout<<"The number is 0"<<endl;
 }
+}
