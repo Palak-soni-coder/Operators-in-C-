@@ -66,6 +66,19 @@ These help guide the program flow based on inputs, such as checking if a number 
 ### 1. Grade Calculator
 This program takes marks of five subjects from the user, calculates the average, and displays the corresponding grade using `if-else` conditions.
 
+**SampleOutput**
+Enter marks of subject 1:
+56<br>
+Enter marks of subject 2:
+78<br>
+Enter marks of subject 3:
+98<br>
+Enter marks of subject 4:
+65<br>
+Enter marks of subject 5:
+45<br>
+Average: 68.4<br>
+The grade is: C<br>
 **Key Concepts Used**:
 - Arithmetic operations
 - Average calculation
@@ -75,6 +88,12 @@ This program takes marks of five subjects from the user, calculates the average,
 ### 2. Finding whether a number is positive, negative or zero
 This simple program checks whether the entered number is positive, negative, or zero using conditional logic.
 
+**SampleOutput**<br>
+Enter a number:
+-98<br>
+The number is negative<br>
+
+
 **Key Concepts Used**:
 - Basic condition checking
 - `if-else` structure
@@ -82,6 +101,14 @@ This simple program checks whether the entered number is positive, negative, or 
 
 ### 3. Quadrant Locator
 This program determines in which quadrant a point lies on the Cartesian plane, based on its x and y coordinates. It also handles edge cases like origin or axes.
+
+**Sample Output**<br>
+Value of x is:
+-12<br>
+Value of y is:
+-12<br>
+(x,y) is in 3rd Quadrant<br>
+
 
 **Concepts Used**:
 - Compound conditions using `&&`
