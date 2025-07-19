@@ -32,4 +32,5 @@ int main(){
       } else if( x==0 && y!=0){
        cout<<"(x,y) is on y axis"<<endl; 
 }
+return 0;
 }
