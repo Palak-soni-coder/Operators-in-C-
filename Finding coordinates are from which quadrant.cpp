@@ -1,7 +1,9 @@
-EXPERIMENT - 3C
-PALAK SONI
-ENTC - A3
-24070123069
+// EXPERIMENT - 3
+// PALAK SONI
+// ENTC - A3
+// 24070123069
+//Problem Statement: Write a program to find the given coordinates belong to which quadrant.
+
 
 #include <iostream>
 using namespace std;
@@ -34,3 +36,10 @@ int main(){
 }
 return 0;
 }
+
+
+/*Output:
+Value of x is: -12
+Value of y is: -12
+(x,y) is in 3rd Quadrant
+*/
