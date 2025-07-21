@@ -3,7 +3,7 @@
 # ENTC A3
 
 
-# C++ Assignment: Understanding Operators and Conditional Statements
+# Title : Understanding Operators and Conditional Statements of C++
 
 ## Operators in C++
 
