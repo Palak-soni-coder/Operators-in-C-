@@ -1,7 +1,8 @@
-EXPERIMENT - 3A
-Palak Soni
-24070123069
-ENTC-A3
+// EXPERIMENT - 3
+// Palak Soni
+// 24070123069
+// ENTC-A3
+//Problem Statement: Write a code to find whether a given number is positve , negative or zero.
 
 #include <iostream>
 using namespace std;
@@ -16,4 +17,11 @@ int main(){
 }else {
     cout<<"The number is 0"<<endl;
 }
+  return 0;
 }
+
+
+/*Output-
+Enter a number: -98
+The number is negative
+*/
