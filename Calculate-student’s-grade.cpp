@@ -1,7 +1,10 @@
-EXPERIMENT - 3B
-PALAK SONI
-24070123069
-ENTC - A3
+// EXPERIMENT - 3B
+// PALAK SONI
+// 24070123069
+// ENTC - A3
+//Problem Statement- Write a program to calculate grade of a student based on his/her marks.
+
+
 #include<iostream>
 using namespace std;
 
@@ -49,3 +52,13 @@ int main(){
     return 0;
 }
 
+
+/*Output - 
+SampleOutput Enter marks of subject 1: 56
+Enter marks of subject 2: 78
+Enter marks of subject 3: 98
+Enter marks of subject 4: 65
+Enter marks of subject 5: 45
+Average: 68.4
+The grade is: C
+*/
